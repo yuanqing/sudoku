@@ -3,13 +3,13 @@
 #include <limits.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <strings.h>
+#include <string.h>
 #include <time.h>
 
 #include "sudoku.h"
 
 /**
- * Reads the `board` from STDIN.
+ * Reads the `board` from `stdin`.
  */
 static void read_board() {
   char c;
@@ -45,7 +45,7 @@ static void read_board() {
 }
 
 /**
- * Prints `board` to STDOUT.
+ * Prints `board` to `stdout`.
  */
 static void print_board() {
 
