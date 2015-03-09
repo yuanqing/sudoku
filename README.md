@@ -1,4 +1,4 @@
-# sudoku [![Version](https://img.shields.io/badge/version-v0.0.0-orange.svg?style=flat)](https://github.com/yuanqing/sudoku/releases) [![Build Status](https://img.shields.io/travis/yuanqing/sudoku.svg?branch=master&style=flat)](https://travis-ci.org/yuanqing/sudoku)
+# sudoku [![Version](https://img.shields.io/badge/version-v0.1.0-orange.svg?style=flat)](https://github.com/yuanqing/sudoku/releases) [![Build Status](https://img.shields.io/travis/yuanqing/sudoku.svg?branch=master&style=flat)](https://travis-ci.org/yuanqing/sudoku)
 
 > A Sudoku solver using [local search](http://en.wikipedia.org/wiki/Local_search_%28constraint_satisfaction%29), written in C.
 
